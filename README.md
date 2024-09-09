@@ -1,8 +1,8 @@
 Here's a detailed README file for # 🗨️ Chatbot in C
 ---
-[In Python]()
+[In Python](https://github.com/mdriyadkhan585/Chatbot-Python)
 
-[In GUI]()
+[In GUI](https://github.com/mdriyadkhan585/Chatbot-GUI)
 
 ![Logo](logo.svg)
 
@@ -17,7 +17,7 @@ Welcome to the **Chatbot** project! This simple command-line chatbot is written 
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Customization](#customization)
-- [License](#license)
+
 
 ## 💡 Introduction
 
@@ -47,13 +47,13 @@ Follow these steps to set up the project on your local machine:
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd advanced-chatbot-c
+   cd Chatbot-in-C
    ```
 
 3. **Compile the Program**:
    Use `gcc` to compile the chatbot program.
    ```bash
-   gcc -o chatbot advanced_chatbot.c
+   gcc -o chatbot chatbot.c
    ```
 
 ## ▶️ Usage
